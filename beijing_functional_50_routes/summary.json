@@ -1,0 +1,18 @@
+{
+  "walking": {
+    "attempts": 2450,
+    "ok": 2414
+  },
+  "cycling": {
+    "attempts": 2450,
+    "ok": 2450
+  },
+  "driving": {
+    "attempts": 2450,
+    "ok": 2450
+  },
+  "transit": {
+    "attempts": 2450,
+    "ok": 2449
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "count": 50,
+  "unique_poi_ids": 50,
+  "category_counts": {
+    "就业商务": 10,
+    "交通枢纽": 10,
+    "教育医疗": 10,
+    "商业文化": 10,
+    "居住片区代表设施": 10
+  },
+  "district_counts": {
+    "海淀区": 11,
+    "朝阳区": 11,
+    "西城区": 5,
+    "丰台区": 7,
+    "大兴区": 3,
+    "石景山区": 2,
+    "昌平区": 3,
+    "东城区": 5,
+    "顺义区": 1,
+    "通州区": 2
+  },
+  "poi_requests": 52,
+  "od_requests": 0,
+  "departure_time_applied": false,
+  "requested_scenario": "2026-11-02T12:00:00+08:00 not queried; historical all-mode support unavailable",
+  "manual_match_corrections": [
+    "中国电信北京信息科技创新园，替换误匹配的未来科学城公园",
+    "选择铁路北京丰台站，而非同名地铁站",
+    "选择大兴机场本体，而非草桥城市航站楼",
+    "选择奥林匹克森林公园南园，而非园内站点",
+    "选择梨园地区办事处，而非九棵树街道办事处"
+  ],
+  "entrances_verified": false,
+  "coordinate_system": "GCJ-02; not WGS84; convert before standard GIS basemap overlay"
+}

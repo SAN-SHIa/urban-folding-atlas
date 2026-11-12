@@ -1,0 +1,18 @@
+# Large source datasets remain local; embedded display data is tracked.
+/beijing-260101-free.shp.zip
+/beijing_functional_50_routes/responses.jsonl
+/beijing_functional_50_routes/route_geometries.json
+
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local QA screenshots
+/*_preview.png
+/atlas_layout_review.png
